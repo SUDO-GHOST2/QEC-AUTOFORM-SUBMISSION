@@ -13,3 +13,4 @@ This project automates the submission of QEC feedback forms  using cURL in C++.
 ## Usage
 - Compile the program using a C++ compiler.
 - Run the executable and follow the prompts to enter your credentials.
+- You can change the answers of form and also comments of your own choice by navigating in the code of your perspective form.
