@@ -1,0 +1,42 @@
+Manual for the C++ Project: QEC Student Evaluation Form Auto Submission
+
+Purpose
+
+This project automates the process of logging into a university portal, navigating to the QEC feedback form, and submitting evaluations for courses.
+
+Pre-requisites
+
+    C++ Development Environment:
+        Install a compiler like GCC or an IDE like Visual Studio.
+
+    Libraries:
+        CURL library for HTTP requests.
+        Make sure CURL is installed and linked with your C++ project.
+        Include the header files for curl/curl.h.
+
+    Internet Access:
+        Ensure you have a stable internet connection.
+
+    Knowledge of Portal Login Credentials:
+        You will need your username and password for the university portal.
+
+    C++ Knowledge:
+        Basic understanding of C++ programming for modifications or debugging.
+
+
+Note
+
+    Session Management:
+        Always run the first student evaluation form code to log in to the main student portal thus it will save the session in cookies.txt file.
+        The saved session ensures seamless access to subsequent forms and then you can fill the any form of your need.
+
+    Form Filling:
+        Once logged in, you can use the program to fill and submit the QEC Feedback Form for any available subject.
+
+    Credentials Matching:
+        The username and password used for the main student portal must match the credentials required for the QEC portal.
+        If the credentials do not match, the program will fail to access and submit the QEC Feedback Form.
+
+    Important:
+        Ensure that the cookies file (cookies.txt) is not modified or deleted during the execution process to avoid session expiration or errors.
+

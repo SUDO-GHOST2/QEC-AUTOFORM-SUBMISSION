@@ -1,0 +1,9 @@
+Custom License for Personal Use
+
+Permission is granted, free of charge, to any individual obtaining a copy of this software and associated documentation files (the "Software"), to use, copy, and modify the Software solely for personal or internal use, under the following conditions:
+
+    The Software must not be published, shared, distributed, sublicensed, or sold in any form or by any means.
+
+    The copyright notice and this permission notice must be included in all copies or significant portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT ANY WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS WITH THE SOFTWARE.
